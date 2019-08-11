@@ -4,6 +4,7 @@
 ### 1.2 Read image based dataset from disk
 ### 1.3 Read text based dataset from disk
 ### 1.4 Read csv based dataset from disk
+### 1.5 Read images based dataset of proprietary format
 ### 1.4 Perform predefined image augmentation
 ### 1.5 Tokenize text
 ### 1.6 Perform padding of text
@@ -29,6 +30,7 @@
 ### 3.7 Perform transfer learning
 ### 3.8 Freeze layers for training
 ### 3.9 Adding layers to a pre-trained network
+### 3.10 Dynamically change learning rate
 
 ## 4. Deploying Models
 ### 4.1 Perform prediction on a trained model
