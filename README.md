@@ -1,7 +1,7 @@
 # Machine Learning Frameworks Cookbook
 ## 1. Working with Datasets
 ### [1.1 Loading datasets which are available in the framework](https://github.com/stante/ml-framework-cookbook/blob/master/Loading%20datasets%20which%20are%20available%20in%20the%20framework.ipynb)
-### 1.2 Read image based dataset from disk
+### [1.2 Reading images from disk for a classification task](https://github.com/stante/ml-framework-cookbook/blob/master/Reading%20images%20from%20disk%20for%20a%20classification%20task.ipynb)
 ### 1.3 Read text based dataset from disk
 ### 1.4 Read csv based dataset from disk
 ### 1.5 Read images based dataset of proprietary format
